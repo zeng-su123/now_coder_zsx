@@ -1,0 +1,15 @@
+2022-05-21 17:32:17,124 INFO [main] c.n.c.c.LoggerTest [StartupInfoLogger.java:55] Starting LoggerTest using Java 17.0.2 on DESKTOP-39JTUJS with PID 6124 (started by 86199 in F:\java_niuke_project\community)
+2022-05-21 17:32:17,126 INFO [main] c.n.c.c.LoggerTest [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-05-21 17:32:18,682 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-05-21 17:32:18,998 INFO [main] c.n.c.c.LoggerTest [StartupInfoLogger.java:61] Started LoggerTest in 2.27 seconds (JVM running for 3.092)
+2022-05-21 17:32:19,452 INFO [main] c.n.c.c.LoggerTest [LoggerTest.java:29] info log
+2022-05-21 17:32:41,295 INFO [main] c.n.c.c.LoggerTest [StartupInfoLogger.java:55] Starting LoggerTest using Java 17.0.2 on DESKTOP-39JTUJS with PID 13968 (started by 86199 in F:\java_niuke_project\community)
+2022-05-21 17:32:41,297 INFO [main] c.n.c.c.LoggerTest [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-05-21 17:32:42,873 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-05-21 17:32:43,170 INFO [main] c.n.c.c.LoggerTest [StartupInfoLogger.java:61] Started LoggerTest in 2.249 seconds (JVM running for 3.02)
+2022-05-21 17:32:43,610 INFO [main] c.n.c.c.LoggerTest [LoggerTest.java:29] info log
+2022-05-21 17:33:30,554 INFO [main] c.n.c.c.LoggerTest [StartupInfoLogger.java:55] Starting LoggerTest using Java 17.0.2 on DESKTOP-39JTUJS with PID 24136 (started by 86199 in F:\java_niuke_project\community)
+2022-05-21 17:33:30,555 INFO [main] c.n.c.c.LoggerTest [SpringApplication.java:640] No active profile set, falling back to 1 default profile: "default"
+2022-05-21 17:33:32,116 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-05-21 17:33:32,421 INFO [main] c.n.c.c.LoggerTest [StartupInfoLogger.java:61] Started LoggerTest in 2.249 seconds (JVM running for 2.921)
+2022-05-21 17:33:32,886 INFO [main] c.n.c.c.LoggerTest [LoggerTest.java:29] info log

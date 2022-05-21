@@ -1,0 +1,3 @@
+2022-05-21 17:32:19,453 ERROR [main] c.n.c.c.LoggerTest [LoggerTest.java:31] error log
+2022-05-21 17:32:43,611 ERROR [main] c.n.c.c.LoggerTest [LoggerTest.java:31] error log
+2022-05-21 17:33:32,886 ERROR [main] c.n.c.c.LoggerTest [LoggerTest.java:31] error log

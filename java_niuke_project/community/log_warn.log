@@ -1,0 +1,3 @@
+2022-05-21 17:32:19,453 WARN [main] c.n.c.c.LoggerTest [LoggerTest.java:30] warn log
+2022-05-21 17:32:43,610 WARN [main] c.n.c.c.LoggerTest [LoggerTest.java:30] warn log
+2022-05-21 17:33:32,886 WARN [main] c.n.c.c.LoggerTest [LoggerTest.java:30] warn log
